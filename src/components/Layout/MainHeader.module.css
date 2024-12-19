@@ -1,0 +1,22 @@
+.header {
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #252424;
+    background-color: rgb(43, 131, 226);
+    padding: 2rem 3rem;
+    margin: 3rem auto;
+    border-radius: 10px;
+}
+
+.header h1 {
+    color: white;
+    margin-right: 5rem;
+}
+
+.header ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
